@@ -3,7 +3,7 @@
   "rooms": [
     {
       "id": 1,
-      "name": "Single Standard Room",
+      "name": "Single Standard",
       "beds": 1,
       "guests": 1,
       "price": 170,
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "name": "Double Standard Room",
+      "name": "Double Standard",
       "beds": 1,
       "guests": 2,
       "price": 240,
@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "name": "Comfort Room",
+      "name": "Family Comfort",
       "beds": 2,
       "guests": 3,
       "price": 290,
@@ -30,7 +30,7 @@
     },
     {
       "id": 4,
-      "name": "Family Comfort Room",
+      "name": "Family Comfort LUX",
       "beds": 2,
       "guests": 4,
       "price": 340,
