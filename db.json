@@ -49,7 +49,7 @@
     },
     {
       "id": 2,
-      "img": "https://images.pexels.com/photos/6543481/pexels-photo-6543481.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "img": "https://images.pexels.com/photos/3764570/pexels-photo-3764570.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Face mask",
       "area": "back",
       "time": 20,
@@ -65,7 +65,7 @@
     },
     {
       "id": 4,
-      "img": "https://images.pexels.com/photos/4963838/pexels-photo-4963838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "img": "https://images.pexels.com/photos/4963840/pexels-photo-4963840.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Pedicure",
       "area": "legs",
       "time": 25,
@@ -73,7 +73,7 @@
     },
     {
       "id": 5,
-      "img": "https://images.pexels.com/photos/4210658/pexels-photo-4210658.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "img": "https://images.pexels.com/photos/7755653/pexels-photo-7755653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Manicure",
       "area": "hands",
       "time": 45,
