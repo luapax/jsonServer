@@ -1,5 +1,14 @@
 {
-  "users": [],
+  "users": [    
+    {
+      "id": 1,
+      "name": "agata@wp.pl",
+      "password": "Agataagata",
+    },    
+    {
+      "id": 2,
+      "name": "kasia@wp.pl",
+      "password": "Kasiakasia",    },],
   "rooms": [
     {
       "id": 1,
